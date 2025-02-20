@@ -23,6 +23,6 @@ Before using this repository, ensure the following tools are installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/terraform.git
+git clone https://github.com/sawanchouksey/terraform.git
 cd terraform
 ```
